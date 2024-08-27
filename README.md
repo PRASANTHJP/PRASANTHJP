@@ -1,6 +1,6 @@
-👋 Hi, I’m Prasanth Jayapal
-👀 I’m interested in AWS DevOps.
-🌱 I’m currently Learning AWS DevOps.
-💞️ I’m looking to collaborate on AWS DevOps.
-📫 How to reach me, prasanth.j2012@gmail.com
+Highly motivated and detail-driven Cyber Security Engineer with 2.8 years of experience in protecting computer systems, networks, and data from cyber threats. Skilled in:
 
+- Vulnerability assessment and penetration testing
+- EDR- CrowdStrike Deployment and Implementation 
+- Security architecture and compliance
+- Cloud security and DevSecOps
